@@ -1,4 +1,5 @@
-# ♟️ chessMania — Chess MLOps Pipeline
+<h1 align='center'>♟️ chessMania</h1> 
+<p align='center'>Chess MLOps Pipeline</p>
 
 > From raw PGN ingestion to Transformer-powered next-move prediction, with full MLOps lifecycle coverage.
 
